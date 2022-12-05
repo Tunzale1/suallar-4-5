@@ -1,0 +1,25 @@
+input{
+  height: 50px;
+  width: 50%;
+  background-color: rgba(0, 139, 139, 0.205) ;
+  font-size: 18px;
+font-style: italic;
+}
+button {
+margin-left: 10px;
+height: 40px;
+width: 40px;
+background-color: rgba(38, 1, 118, 0.305);
+color: white;
+font-size: 25px;
+}
+label{
+  font-size: 25px;
+  background-color: rgba(0, 139, 139, 0.703) ;
+  display: block;
+ width: 80px;
+ padding-left: 5px;
+ height: 30px;
+  font-weight: bold;
+  color: white;
+}
